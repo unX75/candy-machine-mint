@@ -27,15 +27,8 @@
   float: left;
 }
 
-.clubSign {
+.clubSign,.mintButton {
   width: 77.7%;
-  float: left;
-  align-content: center;
-  margin: 11%;
-}
-
-.mintButton {
-  width: 55.7%;
   float: left;
   align-content: center;
   margin: 11%;
