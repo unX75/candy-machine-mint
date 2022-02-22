@@ -44,6 +44,7 @@ h3 {
 	margin-top: 3.33%;
 }
 
+
 .footer {
 
 	position: relative;
@@ -63,6 +64,11 @@ h3 {
 
 
 }
+
+.clubSign {
+	width: 90%;
+}
+
 
 pre {
 	color: #974DB2;
