@@ -12,25 +12,23 @@
   font-size: 1.3em;
 }
 
+.mint-container p{}
+
 #mint {
   padding-top: 10%;
   width: auto;
   text-align: center
 }
 
-#mintButton,
 #clubSign {
   width: 33%;
   height: 500px;
   float: left;
 }
 
-.clubSign, .mint {
+.clubSign {
   width: 77.7%;
   float: left;
   align-content: center;
   margin: 11%;
 }
-
-#main {height: auto;}
-.main {height: auto;}
