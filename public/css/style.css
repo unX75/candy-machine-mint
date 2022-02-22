@@ -246,7 +246,7 @@ li {
 }
 
 .st-scroll,
-.st-panel {
+.st-panel, .st-panel2 {
 	margin: auto;
 	position: relative;
 	width: 100%;
